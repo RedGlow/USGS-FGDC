@@ -1,0 +1,22 @@
+{
+  "name": "usgs-fgdc",
+  "version": "1.0.0",
+  "description": "USGS Lithology Patterns for QGIS as SVG with option to modify colors",
+  "main": "produce_pngs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RedGlow/USGS-FGDC.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RedGlow/USGS-FGDC/issues"
+  },
+  "homepage": "https://github.com/RedGlow/USGS-FGDC#readme",
+  "dependencies": {
+    "gm": "^1.23.1"
+  }
+}
